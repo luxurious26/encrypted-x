@@ -1,4 +1,4 @@
-# Encrypted X (Login Bypass)
+# Encrypted X (Key Bypass)
 
 Encrypted X - A free access key executor in which the way to get a key is to go through a lot of ads
 
@@ -14,4 +14,5 @@ S1rW33b!sC00l!
 827nc98243y673nmc3764cn2920cnn2vg83v652b42b544584m458434858344
 ```
 
-**Status Keys**: Working ✔ (12/17/2021)
+**Demonstration**: https://www.youtube.com/watch?v=cYfaduyR0ew (I fucked my OBS settings and this video is 240p)
+**Status Keys**: Working ✔ (12/18/2021)
