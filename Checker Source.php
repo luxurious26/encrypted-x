@@ -1,21 +1,12 @@
 <?php
 
-// I give a concept how look another checker (For Users not Developers)
+// Source https://pandatechnology.xyz/EncryptedXKey/check.php
+// It's made for Users not for Developers (Just don't confuse with developer keys)
 // based on https://github.com/Panda-Respiratory/Roblox-Key-System
 
 $database = include('database.php');
 $blacklist = include('usedkey.php');
 
-   if(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE) {echo('');}
-elseif(strpos($_SERVER['HTTP_USER_AGENT'], 'Trident') !== FALSE){echo('');}
-elseif(strpos($_SERVER['HTTP_USER_AGENT'], 'Firefox') !== FALSE){echo('');}
-elseif(strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mini') !== FALSE){echo('');}
-elseif(strpos($_SERVER['HTTP_USER_AGENT'], 'Opera') !== FALSE){echo('');}
-elseif(strpos($_SERVER['HTTP_USER_AGENT'], 'Safari') !== FALSE){echo('');}
-elseif(strpos($_SERVER['HTTP_USER_AGENT'], 'Mozilla') !== FALSE){echo('');} 
-$protocol = $_SERVER['SERVER_PROTOCOL'];
-$port = $_SERVER['REMOTE_PORT'];
-$agent = $_SERVER['HTTP_USER_AGENT'];
 $sub = $_GET["key"];
 
 if (in_array($sub, $blacklist,TRUE))
