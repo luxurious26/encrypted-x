@@ -15,4 +15,4 @@ S1rW33b!sC00l!
 ```
 
 **Demonstration**: https://www.youtube.com/watch?v=cYfaduyR0ew (I fucked my OBS settings and this video is 240p)
-**Status Keys**: Patched ❌ (12/18/2021)
+**Status Keys**: Patched because Owner fucked Key System and you can't even use this executor ❌ (12/18/2021)
