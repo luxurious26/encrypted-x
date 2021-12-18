@@ -8,7 +8,7 @@ List of **methods**:
 * [Method 1 - HTTP Debugger](https://github.com/luxurious26/encrypted-x/tree/main/Method%201)
 
 **Demonstration**: https://www.youtube.com/watch?v=cYfaduyR0ew (I fucked my OBS settings and this video is 240p)
-**Status Keys**: Working if use use Method 1 ✔ (12/18/2021)
+**Status Keys**: Working if you use Method 1 ✔ (12/18/2021)
 
 **(OLD)**
 
